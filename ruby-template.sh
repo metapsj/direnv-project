@@ -16,8 +16,8 @@ cat <<-EOF > .envrc
   ruby-version
 EOF
 
-echo "ruby-2.7.1" >> .ruby-version
-echo "14.4.0" >> .node-version
+echo "ruby-2.7.1" > .ruby-version
+echo "14.4.0" > .node-version
 
 direnv allow
 
