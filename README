@@ -1,0 +1,5 @@
+
+# direnv-project
+direnv-project is a script to create the files and folders needed to configure direnv for a project like ruby or node.js
+
+
